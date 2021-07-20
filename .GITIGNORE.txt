@@ -1,1 +1,1 @@
-ignoretest.txt
+.txt
